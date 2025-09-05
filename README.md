@@ -90,5 +90,5 @@ python calculate_date_difference.py
 
 ## Citation
 
-- BioRxiv API: ```text https://api.biorxiv.org/details/[server]/[interval]/[cursor]/[format]  ```
-- Crossref API: ```text https://api.crossref.org/works/[doi] ```
+- BioRxiv API: ` https://api.biorxiv.org/details/[server]/[interval]/[cursor]/[format] `
+- Crossref API: ` https://api.crossref.org/works/[doi] `
